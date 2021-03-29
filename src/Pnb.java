@@ -3,4 +3,4 @@ public class Pnb implements Bank {
     public static float rateOfInterest() {
         return 8.9f;
     }
-}
+}           
